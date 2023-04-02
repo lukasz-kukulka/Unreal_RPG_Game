@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Programing/Unreal/RPG_Game/Content/StarterContent/Audio/Collapse01.uasset"
+				"D:/Programing/Unreal/RPG_Game/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/Locomotions/Idle_Break.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/Locomotions/Walk_Stop.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/Crouthed/Crouch_Idle.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/Crouthed/Crouh_Walk.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/Locomotions/LocomotionSpace1D.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/ABP_RPG_Character.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/ABP_RPG_.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/APG_RPGCharacter.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/Crouthed/CrouchedBlendSpace1D.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/Lean/Lean_left.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/Lean/Lean_right.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_2.uasset",
+				"D:/Programing/Unreal/RPG_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue0.uasset"
 			]
 		}
 	]
